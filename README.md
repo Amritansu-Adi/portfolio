@@ -1,6 +1,6 @@
 ### Description
 
-#My portfolio
+# My portfolio
 
 ### [live preview](https://amritansu-adi.github.io/portfolio/)
 
